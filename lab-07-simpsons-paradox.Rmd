@@ -1,6 +1,7 @@
 ---
 title: "Lab 07 - Smokers in Whickham"
 subtitle: "Simpson's paradox"
+author: "Hailie Mathews"
 output: 
   tufte::tufte_html:
     tufte_variant: "envisioned"
